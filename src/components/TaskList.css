@@ -1,0 +1,39 @@
+/* TaskList.css */
+.tasklist_li {
+  margin-bottom: 30px;
+  border-radius: 10%;
+  padding: 20px;
+  color: #000000;
+
+  background-color: #F3B664;
+  border: 1px solid #000000;
+box-shadow: 2px 4px 6px 0.5px;
+  
+}
+/* TaskList.css */
+.task-list-container {
+  position:absolute;
+  height: 10vh; 
+  margin-top: 250px;
+  margin-left: 40vw;
+  border-radius: 10%;
+}
+
+.task-list {
+  list-style: none;
+  margin: 10px;
+  padding: 20px;
+  list-style-type: none;
+}
+.edit_button,
+.delete_button{
+width: 30px;
+border-radius: 8px;
+margin: 0 5px;
+padding-bottom: 5px;
+background-color: #EC8F5E;
+
+
+}
+
+
